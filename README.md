@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Mohab Tamer!</h1>
-<h3 align="center">Third-Year Computer Science Student | Data Engineering & AI Enthusiast</h3>
+<h3 align="center">Third-Year Computer Science Student | Python Developer & Data Engineering Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -9,18 +9,19 @@
 
 ### 🚀 About Me
 * Motivated Computer Science student at Ain Shams University based in Cairo, Egypt[cite: 1].
-* Passionate about building hands-on experience in **Data Engineering** and **Artificial Intelligence**[cite: 1].
-* Fluent in English (C1 proficiency)[cite: 1] with strong problem-solving and critical thinking skills[cite: 1].
+* Passionate about writing robust **Python** applications, building data engineering pipelines, and exploring Artificial Intelligence[cite: 1].
+* Fluent in English (C1 proficiency)[cite: 1] with strong problem-solving and critical thinking capabilities[cite: 1].
 
 ---
 
-### 💻 When I code, I rely on
+### 💻 Tech Stack & Skills
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Beam-1D2D44?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
